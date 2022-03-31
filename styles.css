@@ -1,0 +1,53 @@
+div {
+    /* padding: 60px; */
+    text-align: center;
+    margin: -10px;
+    color: #EEEEEE;
+  }
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    margin-left: 30px;
+}
+
+.listItems{
+    /* margin: 30px; */
+    display: flex;
+    margin-left: 30px;
+
+
+}
+
+  p{
+      text-align: center;
+  }
+  button{
+      background-color: #3882f6;
+  }
+
+  .header {
+    padding: 60px;
+    background-color: #1f2937;
+
+  }
+  
+  .introduction {
+    padding: 60px;
+    background-color: #f9faf8;
+  }
+  
+  .quote {
+    padding: 60px;
+    background-color: #e5e7eb;
+  }
+  
+  .contact-us {
+    padding: 40px;
+    background-color: #334257;
+  }
+  
+  .footer {
+    padding: 10px;
+    background-color: #1f2937;
+  }
